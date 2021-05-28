@@ -37,7 +37,7 @@
     "eslint-plugin-prettier": "^2.6.0",
     "jest": "^22.2.1",
     "prettier": "1.10.2",
-    "rollup": "^0.55.3",
+    "rollup": "^2.50.3",
     "rollup-plugin-sass": "^0.5.3",
     "rollup-plugin-uglify": "^3.0.0"
   },
